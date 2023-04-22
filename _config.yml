@@ -29,7 +29,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : - jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins             : []
 
 # Conversion
 markdown            : kramdown
@@ -70,4 +70,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
